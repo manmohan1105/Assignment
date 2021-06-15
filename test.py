@@ -55,7 +55,7 @@ with open('mempool.csv') as f:
                            visited.remove(ans[j])
                         ans=ans[:i]
         
-        with open('block_sample.txt', 'w') as f:
+        with open('block.txt', 'w') as f:
          for line in ans:
            f.write(line)
            f.write('\n')  
