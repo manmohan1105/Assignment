@@ -1,1 +1,1 @@
-# Summer of Bitcoin Assignment
+# Assignment
